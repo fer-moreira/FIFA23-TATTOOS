@@ -1,0 +1,105 @@
+{
+    "AssetName": "content/character/tattoo/tattoo_113_hotspot",
+    "HotspotFormatVersion": 1,
+    "Hotspots": [
+        {
+            "Name": "leftarm",
+            "Group": "bodyupper",
+            "Bounds": {
+                "X": 0.16,
+                "Y": 0.34,
+                "Z": 0.76,
+                "W": 0.66
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "rightarm",
+            "Group": "bodyupper",
+            "Bounds": {
+                "X": 0.08,
+                "Y": 0.088,
+                "Z": 0.16,
+                "W": 0.192
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "front",
+            "Group": "bodyupper",
+            "Bounds": {
+                "X": 0.42074,
+                "Y": 0.3422,
+                "Z": 0.57926,
+                "W": 0.68258
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "back",
+            "Group": "bodyupper",
+            "Bounds": {
+                "X": 0.22313,
+                "Y": 0.0474,
+                "Z": 0.29476,
+                "W": 0.16791
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "rightleg",
+            "Group": "bodylower",
+            "Bounds": {
+                "X": 0.44293,
+                "Y": 0.38005,
+                "Z": 0.1056,
+                "W": 0.56187
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "leftleg",
+            "Group": "bodylower",
+            "Bounds": {
+                "X": 0.57707,
+                "Y": 0.37005,
+                "Z": 0.9544,
+                "W": 0.55187
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "leftneck",
+            "Group": "head",
+            "Bounds": {
+                "X": 0,
+                "Y": 0,
+                "Z": 1,
+                "W": 1
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "rightneck",
+            "Group": "head",
+            "Bounds": {
+                "X": 0,
+                "Y": 0,
+                "Z": 1,
+                "W": 1
+            },
+            "Rotation": 0
+        },
+        {
+            "Name": "backneck",
+            "Group": "head",
+            "Bounds": {
+                "X": 0,
+                "Y": 0,
+                "Z": 1,
+                "W": 1
+            },
+            "Rotation": 0
+        }
+    ]
+}
